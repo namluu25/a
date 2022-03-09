@@ -1,0 +1,7 @@
+L 03/05/2022 - 16:29:33: SourceMod error session started
+L 03/05/2022 - 16:29:33: Info (map "workshop/1369332923/Blackwidow_Ren") (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/errors_20220305.log")
+L 03/05/2022 - 16:29:33: [SM] Exception reported: Array index out-of-bounds (index -1, limit 256)
+L 03/05/2022 - 16:29:33: [SM] Blaming: basebans.smx
+L 03/05/2022 - 16:29:33: [SM] Call stack trace:
+L 03/05/2022 - 16:29:33: [SM]   [1] Line 170, /home/builds/sourcemod/linux-1.10/build/plugins/basebans.sp::Command_BanIp
+L 03/05/2022 - 16:31:08: Error log file session closed.

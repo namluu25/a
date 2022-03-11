@@ -1,5 +1,5 @@
 hostname "shab1TV"
-rcon_password "hoagshabitv"
+rcon_password "password"
 sv_password "hoagdeptrai"
 sv_cheats "0"
 sv_setsteamaccount "B7A28058157EEFFFD523A1C8D402897A"

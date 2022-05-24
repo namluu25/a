@@ -1,0 +1,72 @@
+L 05/23/2022 - 05:46:14: SourceMod log file session started (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/L20220523.log") (Version "1.10.0.6529")
+L 05/23/2022 - 05:46:14: [weapons.smx] SQLite DB connection successful
+L 05/23/2022 - 05:46:14: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 05:46:16: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/23/2022 - 05:46:18: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 05:50:15: Log file closed.
+L 05/23/2022 - 05:50:31: SourceMod log file session started (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/L20220523.log") (Version "1.10.0.6529")
+L 05/23/2022 - 05:50:31: [weapons.smx] SQLite DB connection successful
+L 05/23/2022 - 05:50:31: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 05:50:32: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/23/2022 - 05:50:34: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 05:51:14: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/23/2022 - 05:51:16: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 05:53:16: [mapchooser.smx] Starting map vote because outside request
+L 05/23/2022 - 05:53:16: [mapchooser.smx] Voting for next map has started.
+L 05/23/2022 - 05:53:31: [mapchooser.smx] Voting for next map has finished. Nextmap: de_inferno.
+L 05/23/2022 - 05:53:33: [SM] Changed map to "de_inferno"
+L 05/23/2022 - 05:53:35: -------- Mapchange to de_inferno --------
+L 05/23/2022 - 05:53:37: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 05:54:14: [mapchooser.smx] Starting map vote because outside request
+L 05/23/2022 - 05:54:14: [mapchooser.smx] Voting for next map has started.
+L 05/23/2022 - 06:04:28: -------- Mapchange to de_inferno --------
+L 05/23/2022 - 06:04:30: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:05:14: [mapchooser.smx] Starting map vote because outside request
+L 05/23/2022 - 06:05:14: [mapchooser.smx] Voting for next map has started.
+L 05/23/2022 - 06:05:21: [mapchooser.smx] Voting for next map has finished. Nextmap: de_train.
+L 05/23/2022 - 06:05:23: [SM] Changed map to "de_train"
+L 05/23/2022 - 06:05:25: -------- Mapchange to de_train --------
+L 05/23/2022 - 06:05:27: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:11:24: Log file closed.
+L 05/23/2022 - 06:11:40: SourceMod log file session started (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/L20220523.log") (Version "1.10.0.6529")
+L 05/23/2022 - 06:11:40: [weapons.smx] SQLite DB connection successful
+L 05/23/2022 - 06:11:40: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:11:41: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/23/2022 - 06:11:43: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:11:49: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/23/2022 - 06:11:51: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:12:43: [mapchooser.smx] Starting map vote because outside request
+L 05/23/2022 - 06:12:43: [mapchooser.smx] Voting for next map has started.
+L 05/23/2022 - 06:17:52: Log file closed.
+L 05/23/2022 - 06:18:07: SourceMod log file session started (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/L20220523.log") (Version "1.10.0.6529")
+L 05/23/2022 - 06:18:07: [weapons.smx] SQLite DB connection successful
+L 05/23/2022 - 06:18:07: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:18:08: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/23/2022 - 06:18:10: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:18:33: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/23/2022 - 06:18:35: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:19:22: [mapchooser.smx] Starting map vote because outside request
+L 05/23/2022 - 06:19:22: [mapchooser.smx] Voting for next map has started.
+L 05/23/2022 - 06:19:24: [mapchooser.smx] Voting for next map has finished. Nextmap: de_mirage.
+L 05/23/2022 - 06:19:26: [SM] Changed map to "de_mirage"
+L 05/23/2022 - 06:19:27: -------- Mapchange to de_mirage --------
+L 05/23/2022 - 06:19:29: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:21:08: -------- Mapchange to de_mirage --------
+L 05/23/2022 - 06:21:10: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:22:19: [mapchooser.smx] Starting map vote because outside request
+L 05/23/2022 - 06:22:19: [mapchooser.smx] Voting for next map has started.
+L 05/23/2022 - 06:22:21: [mapchooser.smx] Voting for next map has finished. Nextmap: de_overpass.
+L 05/23/2022 - 06:22:23: [SM] Changed map to "de_overpass"
+L 05/23/2022 - 06:22:24: -------- Mapchange to de_overpass --------
+L 05/23/2022 - 06:22:27: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:22:47: Log file closed.
+L 05/23/2022 - 06:23:03: SourceMod log file session started (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/L20220523.log") (Version "1.10.0.6529")
+L 05/23/2022 - 06:23:03: [weapons.smx] SQLite DB connection successful
+L 05/23/2022 - 06:23:03: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:23:04: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/23/2022 - 06:23:06: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:23:37: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/23/2022 - 06:23:39: [weapons.smx] Inactive players' data has been deleted
+L 05/23/2022 - 06:24:32: [mapchooser.smx] Starting map vote because outside request
+L 05/23/2022 - 06:24:32: [mapchooser.smx] Voting for next map has started.
+L 05/23/2022 - 06:24:47: [mapchooser.smx] Voting for next map has finished. 'No Change' was the winner

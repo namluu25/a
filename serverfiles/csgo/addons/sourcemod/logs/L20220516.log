@@ -1,0 +1,58 @@
+L 05/16/2022 - 16:41:19: SourceMod log file session started (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/L20220516.log") (Version "1.10.0.6529")
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.csgo.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/master.games.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.csgo.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdktools.games/game.bms.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdktools.games/game.hl2ctf.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdktools.games/common.games.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdktools.games/game.ios.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.bms.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.hl2ctf.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.fof.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.pvkii.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "sdkhooks.games/common.games.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "funcommands.games.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.l4d2.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.eye.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.sdk2013.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/blacklist.plugins.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.darkm.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.csgo.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.ep1.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.insurgency.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/game.dinodday.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.l4d.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.swarm.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.ep2valve.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.css.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.blade.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/common.games.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.contagion.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.ep2.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] Successfully updated gamedata file "core.games/engine.bgt.txt"
+L 05/16/2022 - 16:41:19: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 05/16/2022 - 17:03:06: SourceMod log file session started (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/L20220516.log") (Version "1.10.0.6529")
+L 05/16/2022 - 17:03:06: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/16/2022 - 17:03:28: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/16/2022 - 17:04:26: Log file closed.
+L 05/16/2022 - 17:17:19: SourceMod log file session started (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/L20220516.log") (Version "1.10.0.6529")
+L 05/16/2022 - 17:17:19: [weapons.smx] SQLite DB connection successful
+L 05/16/2022 - 17:17:19: [weapons.smx] Inactive players' data has been deleted
+L 05/16/2022 - 17:17:19: Log file closed.
+L 05/16/2022 - 17:17:33: SourceMod log file session started (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/L20220516.log") (Version "1.10.0.6529")
+L 05/16/2022 - 17:17:33: [weapons.smx] SQLite DB connection successful
+L 05/16/2022 - 17:17:33: [weapons.smx] Inactive players' data has been deleted
+L 05/16/2022 - 17:17:34: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/16/2022 - 17:17:36: [weapons.smx] Inactive players' data has been deleted
+L 05/16/2022 - 17:18:36: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/16/2022 - 17:18:38: [weapons.smx] Inactive players' data has been deleted
+L 05/16/2022 - 17:19:34: Log file closed.
+L 05/16/2022 - 17:20:40: SourceMod log file session started (file "/home/namluu253/serverfiles/csgo/addons/sourcemod/logs/L20220516.log") (Version "1.10.0.6529")
+L 05/16/2022 - 17:20:40: [weapons.smx] SQLite DB connection successful
+L 05/16/2022 - 17:20:40: [weapons.smx] Inactive players' data has been deleted
+L 05/16/2022 - 17:20:41: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/16/2022 - 17:20:43: [weapons.smx] Inactive players' data has been deleted
+L 05/16/2022 - 17:20:47: -------- Mapchange to workshop/424131215/aim_map3G --------
+L 05/16/2022 - 17:20:49: [weapons.smx] Inactive players' data has been deleted
+L 05/16/2022 - 17:34:14: Log file closed.

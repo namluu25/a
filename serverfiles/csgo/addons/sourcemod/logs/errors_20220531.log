@@ -1,0 +1,7 @@
+L 05/31/2022 - 16:09:23: SourceMod error session started
+L 05/31/2022 - 16:09:23: Info (map "de_dust2") (file "/home/luukevin29/serverfiles/csgo/addons/sourcemod/logs/errors_20220531.log")
+L 05/31/2022 - 16:09:23: [SM] Exception reported: Client index 0 is not valid
+L 05/31/2022 - 16:09:23: [SM] Blaming: hextags.smx
+L 05/31/2022 - 16:09:23: [SM] Call stack trace:
+L 05/31/2022 - 16:09:23: [SM]   [0] CS_SetClientClanTag
+L 05/31/2022 - 16:09:23: [SM]   [1] Line 339, hextags.sp::Cmd_ToggleTags

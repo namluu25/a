@@ -21,4 +21,8 @@
     {
         "chat"			"{lightgreen}[ShabiTV] {default}Subscribe ngay kênh {red}HOAG {default}để xem những series về CS:GO mới nhất!"
     }
+    "2"
+    {
+        "chat"                  "{lightgreen}[ShabiTV] {default}Commands: !knife, !glove, !ws"
+    }
 }

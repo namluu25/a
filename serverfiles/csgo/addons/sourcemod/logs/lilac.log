@@ -1,0 +1,16 @@
+=========[Notice]=========
+Thank you for installing Little Anti-Cheat 1.7.1!
+Just a few notes about this Anti-Cheat:
+
+If a player is logged as "suspected" of using cheats, they are not necessarily cheating.
+If the suspicions logged are few and rare, they are likely false positives.
+An automatic ban is triggered by 5 or more "suspicions" or by one "detection".
+If you think a ban may be incorrect, please do not hesitate to let me know.
+
+That is all, have a wonderful day~
+
+
+
+2022/05/29 13:07:08 [Version 1.7.1] {Name: "I love u babe" | SteamID: STEAM_1:1:592369854 | IP: 113.23.11.175} is suspected of using an aimlock (Detection: 2).
+2022/05/30 16:18:34 [Version 1.7.1] {Name: "naufalf03" | SteamID: STEAM_1:1:552652189 | IP: 103.178.170.9} was detected and banned for Anti-Duck-Delay.
+	Pos={669,1170,3}, Angles={0.00000,-92.65319,0.00000}, Map="de_dust2", Team={3}, Weapon="weapon_usp_silencer", Latency={Inc:0.000000,Out:0.047939}, Loss={Inc:0.000000,Out:0.000000}, Choke={Inc:0.267703,Out:0.000000}, ConnectionTime={647.265625 seconds}, GameTime={1960.734375 seconds}

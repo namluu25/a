@@ -1,0 +1,45 @@
+public Plugin myinfo =  {
+
+	name = "[CS:GO] Map Enforcer",
+	author = "noBrain",
+	description = "this set server map to one map only",
+	version = "1.0.4",
+
+};
+ConVar i_bMapName = null;
+ConVar s_pEnable = null;
+Handle b_gLevel = INVALID_HANDLE;
+Handle v_tVote = INVALID_HANDLE;
+public void OnPluginStart()
+{
+	s_pEnable = CreateConVar("sm_plugin_enable", "1");
+	i_bMapName = CreateConVar("sm_map_name", "de_dust2");
+	b_gLevel = FindConVar("nextlevel");
+	v_tVote = FindConVar("mp_endmatch_votenextleveltime");
+	HookEvent("cs_win_panel_match", CS_EndMatch, EventHookMode_PostNoCopy); 
+}
+public void OnMapStart()
+{
+	if(GetConVarBool(s_pEnable))
+	{
+		char MapName[32], EnfMap[32];
+		GetCurrentMap(MapName, sizeof(MapName));
+		GetConVarString(i_bMapName, EnfMap, sizeof(EnfMap));
+		if(!StrEqual(MapName, EnfMap, false))
+		{
+			ServerCommand("map %s", EnfMap);
+		}
+	}
+}
+public CS_EndMatch(Handle event, const char[] name, bool dontBroadcast)
+{
+	if(GetConVarBool(s_pEnable))
+	{
+		float RndVTime = GetConVarFloat(v_tVote) + 1.0;
+		CreateTimer(RndVTime, Timer_VoteTimerHandler);
+	}
+}
+public Action Timer_VoteTimerHandler(Handle iTimer)
+{
+	SetConVarString(b_gLevel, "de_dust2");
+}
